@@ -1,4 +1,7 @@
 div {
-    background-color: rgb(240, 154, 48);
+    background-color: rgb(217, 68, 10);
     margin: 10px;
+    border-top: 10px;
+    padding: 15px;
+    box-shadow: 10px;
 }
